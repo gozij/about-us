@@ -1,0 +1,37 @@
+h1 {
+    background-color: blue;
+    color:white;
+    text-align: center;
+    padding:0;
+    margin:0;
+    font-size: 36px; 
+    font-family: sans-serif;
+}
+.attatchedtotop {
+    background-color: blue;
+    color:white;
+    text-align: center;
+    padding:26px;
+    margin:0;
+    font-size: 24px;
+    font-family: sans-serif;
+}
+
+h2 {
+ font-size: 36px;
+ font-family: sans-serif;
+ padding:18px;
+}
+.float {
+    float:right
+}
+link {
+color: blue;
+}
+.formatting
+{
+    float: right;
+text-align: bottom ;
+padding:28px;
+}
+p {color:gray}
